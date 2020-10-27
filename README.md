@@ -103,14 +103,11 @@ VCoinX - модификация для [VCoin](https://github.com/xTCry/VCoin), 
 
 # Автор(ы) бота
 * [xTCry](https://github.com/xTCry) - разработчик оригинального VCoin.
+* [Lari5685](https://github.com/lari5685) - разработчик модификации VCoinX.
 * [cursedseal](https://github.com/cursedseal) - разработчик модификации VCoinX.
 
 # Поддержавшие проект
 * [Jeronyson](https://github.com/Jeronyson) - очень сильно помог при обновлении серверов, фиксы багов.
-
-## Поддержать разработчиков
-[![Донат разработчику оригинальной версии](https://img.shields.io/badge/Донат-VCoin-orange.svg)](https://qiwi.me/xtcry)
-[![Донат разработчику VCoinX](https://img.shields.io/badge/Донат-VCoinX-orange.svg)](https://qiwi.me/vcoinx)
 
 # RoadMap
 - [x] Переписать ReadMe, сделав его более читабельным и понятным.
